@@ -1,2 +1,2 @@
 # RecyclerViewExample
-For students of it-school
+For students from it-school
